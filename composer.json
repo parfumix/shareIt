@@ -1,5 +1,5 @@
 {
-    "name": "parfumix/shareIt",
+    "name": "parfumix/shareit",
     "type": "library",
     "description": "shareIt Gateway OmiPay implementation",
     "keywords": [
@@ -7,7 +7,7 @@
         "payment",
         "gateway"
     ],
-    "homepage": "https://github.com/parfumix/shareIt",
+    "homepage": "https://github.com/parfumix/shareit",
     "license": "MIT",
     "authors": [
         {
