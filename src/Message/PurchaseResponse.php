@@ -8,8 +8,8 @@ use Omnipay\Extend\Common\Message\AbstractResponse;
 class PurchaseResponse extends AbstractResponse
 	implements RedirectResponseInterface {
 
-	protected $liveEndpoint = 'https://www.2checkout.com/checkout/purchase';
-	protected $testEndpoint = 'https://sandbox.2checkout.com/checkout/purchase';
+	protected $liveEndpoint = 'https://secure.shareit.com:443/shareit/checkout.html';
+	protected $testEndpoint = 'https://secure.shareit.com:443/shareit/checkout.html';
 
 	/**
 	 * Get appropriate 2checkout endpoints.
