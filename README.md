@@ -1,0 +1,2 @@
+# shareIt
+ShareIt Omnipay gateway
